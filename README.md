@@ -2,7 +2,7 @@
 
 ## Section 1
 
-**This text is bold **
+**This text is bold**
 
 Normal Text
 

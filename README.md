@@ -15,3 +15,18 @@ To install *NumPy*, run this:
 ...
 
 Check *NumPy* installation 
+
+```
+import numpy as np
+a = np.array[(1,2)]
+print(a)
+print(type(a))
+```
+
+~~This is strike through~~
+
+**~~Bold with strike through~~**
+
+### Subheading 1.1
+
+This is continuos text.Pack my box with five dozen liquor jugs 
